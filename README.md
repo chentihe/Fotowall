@@ -1,5 +1,5 @@
 # Fotowall
-Beatiful Wall, Wonderful Wall!  
+Beautiful Wall, Wonderful Wall!  
 Create an account and make you wall great again!!  
 ![index](https://github.com/chentihe/Fotowall/blob/main/imgforRM/fotowall_index.png)
 
