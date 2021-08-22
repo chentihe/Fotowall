@@ -1,0 +1,26 @@
+.pagination {
+	margin-top: 5px;
+	display:flex;
+	float:right;
+}
+.pagination a {
+            color: rgb(95, 114, 27);
+            float: left;
+            padding: 8px 16px;
+            text-decoration: none;
+            transition: background-color .3s;
+            border-radius: 10px;
+        }
+.pagination a.active {
+    background-color: rgb(255, 98, 30);
+    color: white;
+}
+.pagination a:hover:not(.active) {
+    background-color: #ddd;
+}
+.userName {
+	display:inline-block;
+	margin-top: 8px;
+	margin-left: 5px;
+	font-size: 24px;
+}
